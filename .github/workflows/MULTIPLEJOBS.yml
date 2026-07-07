@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Deploy Step
-        run: echo "This is deploy"   
+        run: echo "This is depl"   
 
         
  
