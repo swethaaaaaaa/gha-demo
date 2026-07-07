@@ -1,4 +1,4 @@
-nname: Hello Code
+name: Hello Code
 
 on:
   workflow_dispatch:
